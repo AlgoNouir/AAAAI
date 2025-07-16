@@ -11,7 +11,7 @@ setuptools.setup(
     description="all agents and AI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/python-aaaai",
+    url="https://github.com/algonouir/python-aaaai",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
