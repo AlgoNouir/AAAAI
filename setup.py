@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="aaaai",
-    version="0.1.1",
+    version="0.1.2",
     author="Mahdi Nouri",
     author_email="algo.mahdi.nouri@gmail.com",
     description="all agents and AI",
